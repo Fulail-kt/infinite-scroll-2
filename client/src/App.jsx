@@ -60,7 +60,7 @@ function App() {
                     <h1 className='font-bold font-sans text-start line-clamp-3'>{item?.node?.title}</h1>
                     <div>
                       <p className="text-start text-xs mt-2 font-semibold font-sans text-gray-500">
-                        {moment.unix(item.node.last_update).tz('Asia/Kolkata').format('MMM D YYYY, hh:mm A')} IST
+                        {moment.unix(item?.node?.last_update).tz('Asia/Kolkata').format('MMM D YYYY, hh:mm A')} IST
                       </p>
                     </div>
                   </div>
