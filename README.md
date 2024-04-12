@@ -15,7 +15,7 @@ This project demonstrates an infinite scroll feature using React on the frontend
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/infinite-scroll-project.git
+    git clone https://github.com/Fulail-kt/infinite-scroll-2.git
     ```
 
 2. **Navigate to the project directory:**
