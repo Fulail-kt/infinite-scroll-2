@@ -44,7 +44,7 @@ This project demonstrates an infinite scroll feature using React on the frontend
     npm install
     ```
 
-5. **Setup Environment Variables
+5. **Setup Environment Variables**
 
 Create a `.env` file in the root directory of the `client and Server` folder. Add the following environment variables to the `.env` file:
 
